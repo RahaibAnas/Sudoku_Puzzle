@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>Sudoku Validator README</title>
-</head>
-<body>
+
 
     <h1>Sudoku Validator</h1>
     <p>
@@ -53,5 +47,4 @@ cd sudoku-validator</code></pre>
         This project is open-source and available under the <strong>MIT License</strong>.
     </p>
 
-</body>
-</html>
+
