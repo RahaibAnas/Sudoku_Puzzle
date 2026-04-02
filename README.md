@@ -7,7 +7,7 @@ A lightweight Python utility powered by **NumPy** to verify if a $9 \times 9$ gr
 ## 🧐 Features
 * **Row & Column Integrity**: Ensures every row and column contains digits 1-9 without duplicates using `np.unique`.
 * **Subgrid Validation**: Specifically checks each $3 \times 3$ block to ensure the sum equals 45.
-* **Efficient Logic**: Uses NumPy slicing for high-performance array traversal.
+* **Efficient Logic**: Uses NumPy slicing for high-performance array traversal. 
 
 ## 🛠️ Installation
 
